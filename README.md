@@ -122,6 +122,10 @@ Measured, not guessed: every number and name above is read from
 schedule-rt.jar by this script and re-read identically on each run.
 ```
 
+## The same finding, written up
+
+The 90-day horizon, the value-not-boundary rule in `nextCov`, and the calendar every boundary resolves through are also written up as a page: <https://plantroomlabs.com/tools/schedule-scan/>. It carries a captured run of this program, the download with its byte count and SHA-256, the Niagara version the bytecode was read on beside the version of the JACE it was checked against, and the note on schedules and special events that explains what a graphic driven off "when does this next change" inherits.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
