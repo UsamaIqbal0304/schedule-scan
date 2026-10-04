@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Usama Iqbal (Plantroom Labs)
 """How a Niagara control schedule decides its value and when it next changes.
 
 Reads the schedule engine out of schedule-rt.jar with javap - the public
